@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>ProTricks Web</title>
+  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="https://drive.google.com/uc?id=14tyXlgazc0yzlvuQA7dp1F77kjxdFO-Z">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container">
+    <div class="card">
+        <div class="card-img">
+            <img src="https://image.freepik.com/free-photo/no-problem-concept-bearded-man-makes-okay-gesture-has-everything-control-all-fine-gesture-wears-spectacles-jumper-poses-against-pink-wall-says-i-got-this-guarantees-something_273609-42817.jpg" alt="">
+        </div>
+        <div class="card-about">
+            <h5 class="primary-text">Pro Tricks</h5>
+            <h5 class="secondary-text">Blogger/Designer/UI/UX</h5>
+        </div>
+        <button class="primary-text btn">View Profile</button>
+        <div class="card-details">
+            <div class="card-rating">
+                <h5 class="primary-text">90%</h5>
+                <h5 class="secondary-text">Rating</h5>
+            </div>
+            <div class="card-activity">
+                <h5 class="primary-text">93%</h5>
+                <h5 class="secondary-text">Activity</h5>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- partial -->
+  
+</body>
+</html>
